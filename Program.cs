@@ -8,8 +8,11 @@ namespace GA_Bool_AdamIshak
     {
         static void Main(string[] args)
         {
+                // Boolean variable
             bool isSunny = true;
             bool isWarm = false;
+            
+                // Conditional statements based on Boolean values
 
             if(isSunny && isWarm)
             {
@@ -20,6 +23,8 @@ namespace GA_Bool_AdamIshak
             }else
             {
                 Console.WriteLine("It is not sunny today");
+
+                // Using Boolean values in expressions
             }
             bool isWeekend = true;
             int dayOfWeek = 6;
