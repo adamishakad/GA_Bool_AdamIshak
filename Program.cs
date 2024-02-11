@@ -41,4 +41,3 @@ namespace GA_Bool_AdamIshak
         }
        
     }
-}
